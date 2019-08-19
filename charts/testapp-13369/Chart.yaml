@@ -13,4 +13,4 @@ name: testapp-13369
 orig_name: ipfs
 sources:
 - https://github.com/ipfs/go-ipfs
-version: 0.3.0
+version: 0.0.1
